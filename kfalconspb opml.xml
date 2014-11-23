@@ -4,7 +4,10 @@
     <title>Subscriptions of Scott Bollinger from Inoreader [http://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="test" title="test">
+    <outline text="test" title="test"/>
+    <outline text="testy" title="testy"/>
+    <outline text="test3" title="test3"/>
+    <outline text="opml" title="opml">
       <outline text="basistech.com" title="basistech.com" type="rss" xmlUrl="http://info.basistech.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=691698&amp;moduleid=1448982&amp;maxcount=25&amp;t=9bb067689b355b7adc3f629b01bdecce" htmlUrl="http://www.basistech.com/blog/"/>
       <outline text="InfoSec Institute" title="InfoSec Institute" type="rss" xmlUrl="http://feeds.feedburner.com/infosecResources" htmlUrl="http://resources.infosecinstitute.com/"/>
       <outline text="The Official Google Blog" title="The Official Google Blog" type="rss" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
@@ -655,7 +658,6 @@
       <outline text="::designed not to fail" title="::designed not to fail" type="rss" xmlUrl="http://0x32202.tumblr.com/rss" htmlUrl="http://0x32202.tumblr.com/"/>
       <outline text="fbz's recent photos" title="fbz's recent photos" type="rss" xmlUrl="http://fbz.smugmug.com/hack/feed.mg?Type=nicknameRecentPhotos&amp;Data=fbz&amp;format=rss200" htmlUrl="http://fbz.smugmug.com/"/>
       <outline text="Hacktehpla.net" title="Hacktehpla.net" type="rss" xmlUrl="http://www.hacktehpla.net/feed/" htmlUrl="http://www.hacktehpla.net/"/>
-      <outline text="basistech.com" title="basistech.com" type="rss" xmlUrl="http://info.basistech.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=691698&amp;moduleid=1448982&amp;maxcount=25&amp;t=9bb067689b355b7adc3f629b01bdecce" htmlUrl="http://www.basistech.com/blog/"/>
       <outline text="Snipe.Net" title="Snipe.Net" type="rss" xmlUrl="http://feeds.feedburner.com/snipenet?format=xml" htmlUrl="http://www.snipe.net/"/>
       <outline text="fabienne.us" title="fabienne.us" type="rss" xmlUrl="http://fabienne.us/feed/" htmlUrl="http://fabienne.us/"/>
       <outline text="Tombstone BBS" title="Tombstone BBS" type="rss" xmlUrl="http://tombstone-bbs.co.uk/blog/?feed=rss2" htmlUrl="http://tombstone-bbs.co.uk/blog"/>
@@ -999,7 +1001,9 @@
       <outline text="Geek Speak" title="Geek Speak" type="rss" xmlUrl="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/blog/feeds/posts" htmlUrl="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/blog"/>
       <outline text="VMware Support Insider" title="VMware Support Insider" type="rss" xmlUrl="http://feeds.feedburner.com/SupportInsider" htmlUrl="http://blogs.vmware.com/kb"/>
       <outline text="JacobBerg.com" title="JacobBerg.com" type="rss" xmlUrl="http://feeds.feedburner.com/Jacobbergcom?format=xml" htmlUrl="http://jacobberg.com/"/>
-      <outline text="#ChappyChat" title="#ChappyChat" type="rss" xmlUrl="http://chappychat.info/feed/" htmlUrl="http://chappychat.info/"/>
+    </outline>
+    <outline text="folder" title="folder">
+      <outline text="@kfalconspb (Twitter Home)" title="@kfalconspb (Twitter Home)" type="rss" xmlUrl="https://twitter.com" htmlUrl="https://twitter.com"/>
     </outline>
   </body>
 </opml>
