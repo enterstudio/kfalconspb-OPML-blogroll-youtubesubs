@@ -7,8 +7,11 @@
     <outline text="test" title="test">
       <outline text="basistech.com" title="basistech.com" type="rss" xmlUrl="http://info.basistech.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=691698&amp;moduleid=1448982&amp;maxcount=25&amp;t=9bb067689b355b7adc3f629b01bdecce" htmlUrl="http://www.basistech.com/blog/"/>
     </outline>
-    <outline text="testy" title="testy">
+    <outline text="test2" title="test2">
       <outline text="InfoSec Institute" title="InfoSec Institute" type="rss" xmlUrl="http://feeds.feedburner.com/infosecResources" htmlUrl="http://resources.infosecinstitute.com/"/>
+    </outline>
+    <outline text="testy" title="testy">
+      
       <outline text="The Official Google Blog" title="The Official Google Blog" type="rss" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
       <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl="http://techcrunch.com/"/>
       <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://feeds.gawker.com/lifehacker/vip" htmlUrl="http://lifehacker.com/"/>
