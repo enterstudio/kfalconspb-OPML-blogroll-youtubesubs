@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Subscriptions of Scott Bollinger / kfalconspb[http://www.bollingerusa.com]</title>
+    <title>Subscriptions of Scott Bollinger / kfalconspb [http://www.bollingerusa.com]</title>
   </head>
   <body>
     <outline text="DFIR" title="DFIR">
@@ -513,9 +513,6 @@
       <outline text="The DXZone.com Amateur Radio Intern..." title="The DXZone.com Amateur Radio Intern..." type="rss" xmlUrl="http://www.dxzone.com/catalog/dxzone.xml" htmlUrl="http://www.dxzone.com/"/>
       <outline text="EI7IS" title="EI7IS" type="rss" xmlUrl="http://ei7is.blogspot.com/feeds/posts/default" htmlUrl="http://ei7is.blogspot.com/"/>
     </outline>
-    <outline text="ApplicationsTools" title="ApplicationsTools">
-      <outline text="Helge Klein Â» Blog" title="Helge Klein Â» Blog" type="rss" xmlUrl="https://helgeklein.com/blog/feed/" htmlUrl="https://helgeklein.com/"/>
-    </outline>
     <outline text="Technology" title="Technology">
       <outline text="The Official Google Blog" title="The Official Google Blog" type="rss" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
       <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl="http://techcrunch.com/"/>
@@ -570,6 +567,7 @@
       <outline text="Co3 Systems - Co3 Systems Blog" title="Co3 Systems - Co3 Systems Blog" type="rss" xmlUrl="https://www.co3sys.com/taxonomy/term/22/feed" htmlUrl="https://www.co3sys.com/newsletter/co3-systems-blog"/>
       <outline text="PC Classes Online" title="PC Classes Online" type="rss" xmlUrl="http://pcclassesonline.com/feed/" htmlUrl="http://pcclassesonline.com/"/>
       <outline text="Scott Bollinger / kfalconspb" title="Scott Bollinger / kfalconspb" type="rss" xmlUrl="http://www.bollingerusa.com/feeds/posts/default?alt=rss" htmlUrl="http://www.bollingerusa.com/"/>
+      <outline text="Helge Klein Â» Blog" title="Helge Klein Â» Blog" type="rss" xmlUrl="https://helgeklein.com/blog/feed/" htmlUrl="https://helgeklein.com/"/>
       <outline text="http://kfalconspb.tumblr.com/" title="http://kfalconspb.tumblr.com/" type="rss" xmlUrl="http://kfalconspb.tumblr.com/rss" htmlUrl="http://kfalconspb.tumblr.com/"/>
       <outline text="blog - ANEELISM" title="blog - ANEELISM" type="rss" xmlUrl="http://www.aneelism.com/blog?format=RSS" htmlUrl="http://www.aneelism.com/blog/"/>
       <outline text="geek(graham)" title="geek(graham)" type="rss" xmlUrl="http://www.geekgraham.com/feeds/posts/default" htmlUrl="http://www.geekgraham.com/"/>
