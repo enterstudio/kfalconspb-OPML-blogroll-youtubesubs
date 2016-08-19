@@ -3,4 +3,4 @@ kfalconspb-OPML
 
 My OPML files
 
-Scott Bollinger / @kfalconspb / www.bollingerusa.com
+Scott Bollinger / kfalconspb / www.bollingerusa.com
