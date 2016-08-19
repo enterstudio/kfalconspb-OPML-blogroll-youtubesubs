@@ -1,4 +1,6 @@
 kfalconspb-OPML
 ===============
 
-My OPML file
+My OPML files
+
+Scott Bollinger / @kfalconspb / www.bollingerusa.com
